@@ -1,2 +1,2 @@
 # worldOfJava
-Le but de cet exercice est de dévlopper un un petit jeu de rôle.
+The goal of this exercise is to develop a role-playing game in java
